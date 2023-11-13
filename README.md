@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# About Me:
 👩‍💻 I am a software engineer from the Polytechnic University of Madrid.<br>💻 I'm currently in the final year of my information technology degree.<br>🤖🧠 I'm currently learning and gaining experience in artificial intelligence.<br>🎹 I like playing the piano.<br>⚽ I like football.
 
 
